@@ -1,2 +1,2 @@
 # llws-rs
-Low level websocket library written in rust
+Low level web socket client library written in rust
